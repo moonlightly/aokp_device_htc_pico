@@ -91,16 +91,6 @@ dev.pm.dyn_sample_period=700000
 htc.audio.alc.enable   = 1
 htc.audio.swalt.enable = 1
 
-# Video Acceleration
-video.accelerate.hw=1
-debug.performance.tuning=1
-
-# Low Power Audio
-lpa.decode=false
-audio.decoder_override_check=true
-use.non-omx.mp3.decoder=true
-use.non-omx.aac.decoder=true
-
 # Display
 debug.composition.7x25A.type=mdp
 ro.hw_plat=7x27a
